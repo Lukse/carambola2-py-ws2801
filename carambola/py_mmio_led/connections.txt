@@ -1,0 +1,2 @@
+* Carambola2 GPIO18 - LED strip DATA
+* Carambola2 GPIO19 - LED strip CLOCK 
